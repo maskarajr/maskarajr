@@ -1,2 +1,2 @@
-# project-AlBarak
-Not for Sale, but you can use the concept though..
+# Project Name: Al-Barak
+Not for Sale, but you can use the concept though....
